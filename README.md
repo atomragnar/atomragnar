@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 # 💫 About Me:
-I have previous working experience from auditing, IT-auding & consulting and an<br>master's degree in finance & bachelor's in economics.<br><br>I am currently working towards a career transition into tech studying mainly Java.<br><br>
+I have previous working experience from auditing, IT-auding & consulting. <br>My education from "previous career": master's degree in finance & bachelor's in economics.<br><br>I am currently working towards a career transition into tech studying mainly Java.<br><br>
 
 
 ## 🌐 Socials:
