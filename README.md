@@ -1,10 +1,5 @@
 ### Hello! 👋
 
-# About Me:
-I have previous working experience from auditing, IT-auding & consulting. 
-I am currently working towards a career transition into tech studying mainly Java.<br><br>
-
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/johannes-hornbrinck-52724a5a/) 
 
